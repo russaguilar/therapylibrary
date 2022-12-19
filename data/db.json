@@ -1,0 +1,28 @@
+{
+    "exercises": [
+        {
+            "id": "1",
+            "name": "Push-up",
+            "method": [
+                "Start by putting yourself in prone position on your exercise area.",
+                "Place your hands flat on the floor, level with your chest.",
+                "Keep your elbows slightly close to the side of your body, 45 degrees.",
+                "Slowly lift yourself up by pushing on the floor",
+                "After extending your elbows fully, lower yourself slowly till your chest is 4-6 inches off the floor",
+                "Repeat"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Squats",
+            "method": [
+                "Start by standing up straight, hands to the side, and feet shoulder-length apart.",
+                "Slowly bend your hips and knees, keeping your feet in place",
+                "As you lower yourself, keep your back straight.",
+                "A good reminder of proper form is to keep your knees from passing your toes when you look down",
+                "When your knees are 90 degrees bent, stop and slowly go back to your original positon",
+                "Repeat"
+            ]
+        }
+    ]
+}
